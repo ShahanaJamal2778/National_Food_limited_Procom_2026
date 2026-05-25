@@ -18,7 +18,7 @@ Achieved **Runner-Up (2nd Position)** in the competition.
 # Dashboard Preview
 
 ## Executive Dashboard
-![Executive Dashboard](./natinal_pg1..png)
+![Executive Dashboard](./natinal_pg1.png)
 
 ## Financial Trend Analysis
 ![Financial Analysis](./natinal_pg2.png)
